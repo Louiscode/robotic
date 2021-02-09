@@ -1,0 +1,170 @@
+******************** GMM Model Report ********************
+
+******************** Model ********************
+Normalization method: RShoulder_LShoulder__RShoulder_LShoulder
+Covariance type: spherical
+train_accuracy: 15.267175572519085
+test_accuracy: 16.3265306122449
+filename: RShoulder_LShoulder__RShoulder_LShoulder_spherical.joblib
+
+******************** Model ********************
+Normalization method: RShoulder_LShoulder__RShoulder_LShoulder
+Covariance type: diag
+train_accuracy: 14.50381679389313
+test_accuracy: 4.081632653061225
+filename: RShoulder_LShoulder__RShoulder_LShoulder_diag.joblib
+
+******************** Model ********************
+Normalization method: RShoulder_LShoulder__RShoulder_LShoulder
+Covariance type: tied
+train_accuracy: 45.80152671755725
+test_accuracy: 46.93877551020408
+filename: RShoulder_LShoulder__RShoulder_LShoulder_tied.joblib
+
+******************** Model ********************
+Normalization method: RShoulder_LShoulder__RShoulder_LShoulder
+Covariance type: full
+train_accuracy: 34.35114503816794
+test_accuracy: 20.408163265306122
+filename: RShoulder_LShoulder__RShoulder_LShoulder_full.joblib
+
+******************** Model ********************
+Normalization method: Nose_Neck__Nose_Neck
+Covariance type: spherical
+train_accuracy: 18.3206106870229
+test_accuracy: 10.204081632653061
+filename: Nose_Neck__Nose_Neck_spherical.joblib
+
+******************** Model ********************
+Normalization method: Nose_Neck__Nose_Neck
+Covariance type: diag
+train_accuracy: 20.610687022900763
+test_accuracy: 18.367346938775512
+filename: Nose_Neck__Nose_Neck_diag.joblib
+
+******************** Model ********************
+Normalization method: Nose_Neck__Nose_Neck
+Covariance type: tied
+train_accuracy: 58.778625954198475
+test_accuracy: 44.89795918367347
+filename: Nose_Neck__Nose_Neck_tied.joblib
+
+******************** Model ********************
+Normalization method: Nose_Neck__Nose_Neck
+Covariance type: full
+train_accuracy: 87.02290076335878
+test_accuracy: 85.71428571428571
+filename: Nose_Neck__Nose_Neck_full.joblib
+
+******************** Model ********************
+Normalization method: Nose_Neck__RShoulder_LShoulder
+Covariance type: spherical
+train_accuracy: 28.24427480916031
+test_accuracy: 34.69387755102041
+filename: Nose_Neck__RShoulder_LShoulder_spherical.joblib
+
+******************** Model ********************
+Normalization method: Nose_Neck__RShoulder_LShoulder
+Covariance type: diag
+train_accuracy: 21.374045801526716
+test_accuracy: 24.489795918367346
+filename: Nose_Neck__RShoulder_LShoulder_diag.joblib
+
+******************** Model ********************
+Normalization method: Nose_Neck__RShoulder_LShoulder
+Covariance type: tied
+train_accuracy: 91.6030534351145
+test_accuracy: 91.83673469387756
+filename: Nose_Neck__RShoulder_LShoulder_tied.joblib
+
+******************** Model ********************
+Normalization method: Nose_Neck__RShoulder_LShoulder
+Covariance type: full
+train_accuracy: 83.96946564885496
+test_accuracy: 69.38775510204081
+filename: Nose_Neck__RShoulder_LShoulder_full.joblib
+
+******************** Model ********************
+Normalization method: Nose_Neck__3xNose_Neck
+Covariance type: spherical
+train_accuracy: 18.3206106870229
+test_accuracy: 12.244897959183673
+filename: Nose_Neck__3xNose_Neck_spherical.joblib
+
+******************** Model ********************
+Normalization method: Nose_Neck__3xNose_Neck
+Covariance type: diag
+train_accuracy: 19.84732824427481
+test_accuracy: 16.3265306122449
+filename: Nose_Neck__3xNose_Neck_diag.joblib
+
+******************** Model ********************
+Normalization method: Nose_Neck__3xNose_Neck
+Covariance type: tied
+train_accuracy: 88.54961832061069
+test_accuracy: 89.79591836734694
+filename: Nose_Neck__3xNose_Neck_tied.joblib
+
+******************** Model ********************
+Normalization method: Nose_Neck__3xNose_Neck
+Covariance type: full
+train_accuracy: 89.31297709923665
+test_accuracy: 83.6734693877551
+filename: Nose_Neck__3xNose_Neck_full.joblib
+
+******************** Model ********************
+Normalization method: No_Normalization
+Covariance type: spherical
+train_accuracy: 31.297709923664126
+test_accuracy: 26.53061224489796
+filename: No_Normalization_spherical.joblib
+
+******************** Model ********************
+Normalization method: No_Normalization
+Covariance type: diag
+train_accuracy: 27.480916030534353
+test_accuracy: 26.53061224489796
+filename: No_Normalization_diag.joblib
+
+******************** Model ********************
+Normalization method: No_Normalization
+Covariance type: tied
+train_accuracy: 93.89312977099237
+test_accuracy: 89.79591836734694
+filename: No_Normalization_tied.joblib
+
+******************** Model ********************
+Normalization method: No_Normalization
+Covariance type: full
+train_accuracy: 93.89312977099237
+test_accuracy: 79.59183673469387
+filename: No_Normalization_full.joblib
+
+******************** Model ********************
+Normalization method: RShoulder_LShoulder__3xRShoulder_LShoulder
+Covariance type: spherical
+train_accuracy: 21.374045801526716
+test_accuracy: 18.367346938775512
+filename: RShoulder_LShoulder__3xRShoulder_LShoulder_spherical.joblib
+
+******************** Model ********************
+Normalization method: RShoulder_LShoulder__3xRShoulder_LShoulder
+Covariance type: diag
+train_accuracy: 24.427480916030532
+test_accuracy: 12.244897959183673
+filename: RShoulder_LShoulder__3xRShoulder_LShoulder_diag.joblib
+
+******************** Model ********************
+Normalization method: RShoulder_LShoulder__3xRShoulder_LShoulder
+Covariance type: tied
+train_accuracy: 73.2824427480916
+test_accuracy: 71.42857142857143
+filename: RShoulder_LShoulder__3xRShoulder_LShoulder_tied.joblib
+
+******************** Model ********************
+Normalization method: RShoulder_LShoulder__3xRShoulder_LShoulder
+Covariance type: full
+train_accuracy: 64.8854961832061
+test_accuracy: 30.612244897959183
+filename: RShoulder_LShoulder__3xRShoulder_LShoulder_full.joblib
+

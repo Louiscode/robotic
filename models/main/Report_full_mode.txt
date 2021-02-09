@@ -1,0 +1,170 @@
+******************** GMM Model Report ********************
+
+******************** Model ********************
+Normalization method: No_Normalization
+Covariance type: spherical
+train_accuracy: 35.35353535353536
+test_accuracy: 32.35294117647059
+filename: No_Normalization_spherical.joblib
+
+******************** Model ********************
+Normalization method: No_Normalization
+Covariance type: diag
+train_accuracy: 35.35353535353536
+test_accuracy: 23.52941176470588
+filename: No_Normalization_diag.joblib
+
+******************** Model ********************
+Normalization method: No_Normalization
+Covariance type: tied
+train_accuracy: 96.96969696969697
+test_accuracy: 91.17647058823529
+filename: No_Normalization_tied.joblib
+
+******************** Model ********************
+Normalization method: No_Normalization
+Covariance type: full
+train_accuracy: 92.92929292929293
+test_accuracy: 67.64705882352942
+filename: No_Normalization_full.joblib
+
+******************** Model ********************
+Normalization method: Nose_MidHip__RShoulder_LShoulder
+Covariance type: spherical
+train_accuracy: 26.262626262626267
+test_accuracy: 29.411764705882355
+filename: Nose_MidHip__RShoulder_LShoulder_spherical.joblib
+
+******************** Model ********************
+Normalization method: Nose_MidHip__RShoulder_LShoulder
+Covariance type: diag
+train_accuracy: 32.323232323232325
+test_accuracy: 26.47058823529412
+filename: Nose_MidHip__RShoulder_LShoulder_diag.joblib
+
+******************** Model ********************
+Normalization method: Nose_MidHip__RShoulder_LShoulder
+Covariance type: tied
+train_accuracy: 94.94949494949495
+test_accuracy: 91.17647058823529
+filename: Nose_MidHip__RShoulder_LShoulder_tied.joblib
+
+******************** Model ********************
+Normalization method: Nose_MidHip__RShoulder_LShoulder
+Covariance type: full
+train_accuracy: 80.8080808080808
+test_accuracy: 44.11764705882353
+filename: Nose_MidHip__RShoulder_LShoulder_full.joblib
+
+******************** Model ********************
+Normalization method: Nose_MidHip__Nose_MidHip
+Covariance type: spherical
+train_accuracy: 39.39393939393939
+test_accuracy: 32.35294117647059
+filename: Nose_MidHip__Nose_MidHip_spherical.joblib
+
+******************** Model ********************
+Normalization method: Nose_MidHip__Nose_MidHip
+Covariance type: diag
+train_accuracy: 29.292929292929294
+test_accuracy: 26.47058823529412
+filename: Nose_MidHip__Nose_MidHip_diag.joblib
+
+******************** Model ********************
+Normalization method: Nose_MidHip__Nose_MidHip
+Covariance type: tied
+train_accuracy: 94.94949494949495
+test_accuracy: 88.23529411764706
+filename: Nose_MidHip__Nose_MidHip_tied.joblib
+
+******************** Model ********************
+Normalization method: Nose_MidHip__Nose_MidHip
+Covariance type: full
+train_accuracy: 88.88888888888889
+test_accuracy: 70.58823529411765
+filename: Nose_MidHip__Nose_MidHip_full.joblib
+
+******************** Model ********************
+Normalization method: Nose_MidHip__3xNose_MidHip
+Covariance type: spherical
+train_accuracy: 31.313131313131315
+test_accuracy: 23.52941176470588
+filename: Nose_MidHip__3xNose_MidHip_spherical.joblib
+
+******************** Model ********************
+Normalization method: Nose_MidHip__3xNose_MidHip
+Covariance type: diag
+train_accuracy: 28.28282828282828
+test_accuracy: 26.47058823529412
+filename: Nose_MidHip__3xNose_MidHip_diag.joblib
+
+******************** Model ********************
+Normalization method: Nose_MidHip__3xNose_MidHip
+Covariance type: tied
+train_accuracy: 94.94949494949495
+test_accuracy: 88.23529411764706
+filename: Nose_MidHip__3xNose_MidHip_tied.joblib
+
+******************** Model ********************
+Normalization method: Nose_MidHip__3xNose_MidHip
+Covariance type: full
+train_accuracy: 89.8989898989899
+test_accuracy: 82.35294117647058
+filename: Nose_MidHip__3xNose_MidHip_full.joblib
+
+******************** Model ********************
+Normalization method: RShoulder_LShoulder__RShoulder_LShoulder
+Covariance type: spherical
+train_accuracy: 15.151515151515152
+test_accuracy: 2.941176470588235
+filename: RShoulder_LShoulder__RShoulder_LShoulder_spherical.joblib
+
+******************** Model ********************
+Normalization method: RShoulder_LShoulder__RShoulder_LShoulder
+Covariance type: diag
+train_accuracy: 31.313131313131315
+test_accuracy: 20.588235294117645
+filename: RShoulder_LShoulder__RShoulder_LShoulder_diag.joblib
+
+******************** Model ********************
+Normalization method: RShoulder_LShoulder__RShoulder_LShoulder
+Covariance type: tied
+train_accuracy: 55.55555555555556
+test_accuracy: 55.88235294117647
+filename: RShoulder_LShoulder__RShoulder_LShoulder_tied.joblib
+
+******************** Model ********************
+Normalization method: RShoulder_LShoulder__RShoulder_LShoulder
+Covariance type: full
+train_accuracy: 50.505050505050505
+test_accuracy: 23.52941176470588
+filename: RShoulder_LShoulder__RShoulder_LShoulder_full.joblib
+
+******************** Model ********************
+Normalization method: RShoulder_LShoulder__3xRShoulder_LShoulder
+Covariance type: spherical
+train_accuracy: 23.232323232323232
+test_accuracy: 8.823529411764707
+filename: RShoulder_LShoulder__3xRShoulder_LShoulder_spherical.joblib
+
+******************** Model ********************
+Normalization method: RShoulder_LShoulder__3xRShoulder_LShoulder
+Covariance type: diag
+train_accuracy: 19.19191919191919
+test_accuracy: 20.588235294117645
+filename: RShoulder_LShoulder__3xRShoulder_LShoulder_diag.joblib
+
+******************** Model ********************
+Normalization method: RShoulder_LShoulder__3xRShoulder_LShoulder
+Covariance type: tied
+train_accuracy: 68.68686868686868
+test_accuracy: 58.82352941176471
+filename: RShoulder_LShoulder__3xRShoulder_LShoulder_tied.joblib
+
+******************** Model ********************
+Normalization method: RShoulder_LShoulder__3xRShoulder_LShoulder
+Covariance type: full
+train_accuracy: 72.72727272727273
+test_accuracy: 32.35294117647059
+filename: RShoulder_LShoulder__3xRShoulder_LShoulder_full.joblib
+
